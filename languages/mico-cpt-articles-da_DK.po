@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mico-cpt-articles\n"
 "POT-Creation-Date: 2014-09-05 13:43+0100\n"
-"PO-Revision-Date: 2014-09-05 13:46+0100\n"
+"PO-Revision-Date: 2014-09-05 14:04+0100\n"
 "Last-Translator: Malthe Milthers <malthe@milthers.dk>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -75,7 +75,7 @@ msgstr "Ikke fundet i papirkurven"
 #: ../mico-cpt-articles.php:127
 msgctxt "URL slug"
 msgid "article"
-msgstr ""
+msgstr "artikel"
 
 #: ../mico-cpt-articles.php:133
 msgid "A list of articles"
